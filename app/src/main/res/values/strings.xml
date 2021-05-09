@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CountryApi</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sort">Sort By:</string>
+    <string name="sort_ascend">Sort A-Z</string>
+    <string name="sort_descend">Sort Z-A</string>
+    <string name="sort_greatest_first">Greatest first</string>
+    <string name="sort_smallest_first">Smallest first</string>
+</resources>
